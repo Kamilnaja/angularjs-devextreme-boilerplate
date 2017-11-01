@@ -1,0 +1,1 @@
+angular js boilerplate with bootstrap 3. Run npm install and should work
