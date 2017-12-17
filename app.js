@@ -1,4 +1,4 @@
-angular.module("my-app", [])
+angular.module("my-app", ['dx'])
   .controller("app-ctrl", function ($scope) {
     
   })
